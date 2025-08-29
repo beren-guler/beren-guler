@@ -16,7 +16,6 @@
 
 - 🎲 Board game enthusiast who loves strategic thinking—both in games and in code!
 - 🧠 Curious about how Artificial Intelligence can transform learning experiences.
-- 🎮 Dreaming of AI-enhanced immersive virtual reality experiences.
 - 🌍 Preparing for international opportunities and hackathons.
 
 
