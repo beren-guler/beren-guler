@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Beren Güler (Mrsbadnews)!
+# 👋 Hi, I'm Beren Güler!
 
 🎓 **Sophomore @ Sabancı University**  
 📚 **Computer Science & Engineering**  
