@@ -17,6 +17,7 @@
 - 🎲 Board game enthusiast who loves strategic thinking—both in games and in code!
 - 🧠 Curious about how Artificial Intelligence can transform learning experiences.
 - 🌍 Preparing for international opportunities and hackathons.
+- 🎶 Making music using Strudel Repl
 
 
 
