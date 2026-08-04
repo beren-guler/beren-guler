@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Beren Güler!
 
-🎓 **Sophomore @ Sabancı University**  
-📚 **Computer Science & Engineering**  
+🎓 **Junior @ Sabancı University**      
+📚 **Computer Science & Engineering**    
+📚📚 **Data Science & Engineering double major**     
+📚📚📚 **with a Math Minor**  
 🌱 Currently growing my skills in Python and C++
 
 ---
